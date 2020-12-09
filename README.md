@@ -26,3 +26,14 @@ Including `libtorch` head file
 #include <torch/torch.h>
 ```
 
+
+# Build and run
+
+```bash
+mkdir build
+cd $_
+cmake ..
+make
+```
+
+
