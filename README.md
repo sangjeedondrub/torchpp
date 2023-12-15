@@ -10,9 +10,19 @@
 
 Install `libtorch`
 
+
+`pytorch' is formly named `libtorch`
+
 ```bash
-brew install libtorch
+brew install pytorch
 ```
+
+You might need to unlink `fmt`
+
+```
+brew unlink fmt
+```
+
 
 Install `cmake`
 
